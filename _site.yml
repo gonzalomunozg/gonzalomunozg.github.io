@@ -1,12 +1,12 @@
 name: "My personal webpage"
 output_dir: "."
 navbar:
-title: "Me"
-left:
-- text: "Home"
-  href: index.html
-- text: "Speed and Distance"
-  href: myweb.html
+ title: "Me"
+ left:
+ - text: "Home"
+   href: index.html
+ - text: "Speed and Distance"
+   href: myweb.html
 output:
-html_document:
-   theme:cosmo
+ html_document:
+  theme:cosmo
