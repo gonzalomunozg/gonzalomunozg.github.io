@@ -4,7 +4,7 @@ navbar:
 title: "Me"
 left:
 - text "Home"
-  href:index.Rmd
+  href:index.html
 - text: "Speed and Distance"
   href: myweb.html
 output:
