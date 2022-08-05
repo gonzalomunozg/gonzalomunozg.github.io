@@ -11,7 +11,6 @@ navbar:
      href: educ.html
    - text: "Courses"
      href: courses.html
-     
 output:
  html_document:
   theme: cosmo
