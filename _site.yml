@@ -3,10 +3,10 @@ output_dir: "."
 navbar:
  title: "Gonzalo J. Muñoz"
  left:
- - text: "Home"
-   href: index.html
- - text: "Publications"
-   href: pubs.html
+   - text: "Home"
+     href: index.html
+   - text: "Publications"
+     href: pubs.html
 output:
  html_document:
   theme: cosmo

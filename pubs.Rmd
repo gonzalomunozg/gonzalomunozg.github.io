@@ -1,7 +1,5 @@
 ---
-title: "Publications"
-author: "Gonzalo J. Muñoz"
-date: "`r Sys.Date()`"
+title: ""
 output: html_document
 ---
 
