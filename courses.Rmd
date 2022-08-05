@@ -25,11 +25,18 @@ Taller Desarrollo de Carrera y Empleabilidad [Career Development and Employabili
 
 Evidence-based management (2021), Master in Organizational Psychology, School of Psychology, Universidad Adolfo Ibáñez
 
-Cultura y clima organizacional [Organizational cultural and climate] (2020 - 2021), Master in Organizational Psychology, School of Psychology, Universidad Adolfo Ibáñez
+Cultura y clima organizacional [Organizational cultural and climate] (2020 - 2021), Master in Organizational Psychology, School of Psychology, Universidad Adolfo Ibáñez, Chile.
 
-Estadística avanzada Random Coefficient Models [Advanced Statistics Random Coefficient Models] (2019 - 2022), Doctorado en Neurociencia Social y Cognición, School of Psychology, Universidad Adolfo Ibáñez
+***
+**Para citar el material de clases disponible a continuación por favor usar el siguiente formato**
 
-Estadística avanzada ANOVA [Advanced Statistics ANOVA] (2019 - 2022), Doctorado en Neurociencia Social y Cognición, School of Psychology, Universidad Adolfo Ibáñez
+Muñoz, G. J. (2019-2022). [Curso Estadística Avanzada]. Doctorado en Neurociencia Social y Cognición, Universidad Adolfo Ibáñez, Chile. https://rpubs.com/gmunoz
+
+***
+
+[Estadística avanzada Random Coefficient Models](https://rpubs.com/gmunoz) [Advanced Statistics Random Coefficient Models] (2019 - 2022), Doctorado en Neurociencia Social y Cognición, School of Psychology, Universidad Adolfo Ibáñez
+
+[Estadística avanzada ANOVA](https://rpubs.com/gmunoz) [Advanced Statistics ANOVA] (2019 - 2022), Doctorado en Neurociencia Social y Cognición, School of Psychology, Universidad Adolfo Ibáñez
 
 Entrenamiento [Training] (2014 - 2021), Master in Organizational Psychology, School of Psychology, Universidad Adolfo Ibáñez
 
