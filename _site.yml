@@ -3,7 +3,9 @@ navbar:
 title: "Me"
 left:
 - text "Home"
-   href:index.Rmd
+  href:index.Rmd
+- text: "Speed and Distance"
+  href: myweb.html
 output:
 html_document:
    theme:cosmo
