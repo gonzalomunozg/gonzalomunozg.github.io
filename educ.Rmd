@@ -1,0 +1,17 @@
+---
+title: ''
+author: "Gonzalo J. Muoz"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+Ph.D. 	Psychology, Industrial/Organizational emphasis, Texas A&M University, College Station, Texas (May 2014)
+Dissertation Title: Mental Models and the Acquisition of a Complex Skill Across Individuals and Teams: A Multilevel Study
+
+M.S. 	Psychology, Industrial/Organizational emphasis, Texas A&M University, College Station, Texas (May 2011)
+Thesis Title: Driving Mental Models as a Predictor of Crashes and Moving Violations
+
+M.S.	Clinical Psychology, Universidad Adolfo Ibáñez, Santiago de Chile (Sept 2006); Awarded with Academic Excellence Diploma.
+Thesis Title: Speech Acts in Brief Strategic and Systemic Therapy: A Characterization of the Reframing Technique Using the Verbal Response Mode Coding System
+
+B. A.	Psychology; Major in Psychology; Pontificia Universidad Católica de Chile, Santiago de Chile (Sept 2002).

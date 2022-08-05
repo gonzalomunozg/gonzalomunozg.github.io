@@ -7,6 +7,11 @@ navbar:
      href: index.html
    - text: "Publications"
      href: pubs.html
+   - text: "Education"
+     href: educ.html
+   - text: "Courses"
+     href: courses.html
+     
 output:
  html_document:
   theme: cosmo
