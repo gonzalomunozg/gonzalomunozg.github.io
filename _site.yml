@@ -1,12 +1,12 @@
 name: "My personal webpage"
 output_dir: "."
 navbar:
- title: "Me"
+ title: "Gonzalo J. Muñoz"
  left:
  - text: "Home"
    href: index.html
- - text: "Speed and Distance"
-   href: myweb.html
+ - text: "Publications"
+   href: pubs.html
 output:
  html_document:
-  theme:cosmo
+  theme: cosmo
