@@ -1,0 +1,9 @@
+name: "My personal webpage"
+navbar:
+title: "Me"
+left:
+- text "Home"
+   href:index.Rmd
+output:
+html_document:
+   theme:cosmo
