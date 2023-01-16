@@ -13,7 +13,7 @@
 
 <title>pubs.knit</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -174,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -183,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -280,10 +277,9 @@ press). <a href="./docs/Varela%20et%20al_2022.pdf">Bullying behavior and
 school bonding for predicting student engagement among Chilean
 adolescents</a>. Journal of School Violence. [WoS; Q2]</p>
 <p>He, Y., Payne, S.C., Beus, J.M., Muñoz, G. J., Battista, V., &amp;
-Yao, X. (in press). <a
-href="./docs/He%20et%20al_in-press.pdf">Organizational climate profiles:
-Identifying meaningful combinations of climate level and strength</a>.
-Journal of Applied Psychology [WoS; Q1]</p>
+Yao, X. (2022). <a href="./docs/He%20et%20al_2022.pdf">Organizational
+climate profiles: Identifying meaningful combinations of climate level
+and strength</a>. Journal of Applied Psychology [WoS; Q1]</p>
 <p>Muñoz, G. J., Cortéz, D. A., Álvarez, C. B., Raggio, J. A., Concha,
 A., Rojas, F. I., Arthur, W. Jr., Fischer, B. M., &amp; Rodríguez, S.
 (2022). <a href="./docs/Muñoz%20et%20al_2022.pdf">After-action reviews
