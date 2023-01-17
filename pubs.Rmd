@@ -3,7 +3,7 @@ title: ""
 output: html_document
 ---
 
-**Notes. Indexing information is provided in brackets. Web of Science (ex-ISI) = WoS; Q = quartil score.**
+***Notes.*** **Indexing information is provided in brackets. Web of Science (ex-ISI) = WoS; Q = quartil score.**
 
 Varela, J., Muñoz, G. J., Reschly, A., & Melipillán, R. (in press). [Bullying behavior and school bonding for predicting student engagement among Chilean adolescents](./docs/Varela et al_2022.pdf). Journal of School Violence. [WoS; Q2]
 

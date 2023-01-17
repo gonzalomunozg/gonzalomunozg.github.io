@@ -7,11 +7,16 @@ navbar:
      href: index.html
    - text: "Publications"
      href: pubs.html
+     icon: fa-book-open
    - text: "Education"
      href: educ.html
    - text: "Courses"
      href: courses.html
+   - text: ""
+     href: contact.html
+     icon: fa-phone
+     
      
 output:
  html_document:
-  theme: cerulean
+  theme: cosmo

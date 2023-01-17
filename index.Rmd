@@ -2,9 +2,9 @@
 title: ""
 ---
 
-![](./my_photo.jpg){width=30%}
+![](./my_photo_B&W.jpg){width=30%}
 
-Profesor Escuela de Administración Pontificia Universidad Católica de Chile, Doctor en Psicología Organizacional de la Universidad de Texas A&M.
+Profesor Asistente Escuela de Administración Pontificia Universidad Católica de Chile, Doctor en Psicología Organizacional de la Universidad de Texas A&M, Psicólogo PUC.
 
 Mi investigación se ha concentrado en temas relacionados con entrenamiento, capacitación y desarrollo organizacional que han sido publicadas en las principales revistas de la disciplina incluyendo Journal of Applied Psychology, Human Factors, Journal of Management, Journal of Business Ethics y Psychonomic Bulletin & Review, entre otras. 
 

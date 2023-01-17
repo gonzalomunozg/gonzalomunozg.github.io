@@ -7,7 +7,7 @@ output: html_document
 
 ## UNDERGRADUATE COURSES
 
-**Notes. Optativo de Formación General = OPR.**
+***Notes.*** **Optativo de Formación General = OPR.**
 
 Aprendizaje en organizaciones (OPR) [Learning in Organizacions] (2022 - ?), School of Business, Pontificia Universidad Católica de Chile
 
