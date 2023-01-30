@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "Home"
+output: html_document
 ---
 
-![](./my_photo_B&W.jpg){width=30%}
+![](./my_photo_BW.jpg){width=30%}
 
 Profesor Asistente Escuela de Administración Pontificia Universidad Católica de Chile, Doctor en Psicología Organizacional de la Universidad de Texas A&M, Psicólogo PUC.
 
