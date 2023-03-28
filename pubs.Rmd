@@ -3,6 +3,8 @@ title: ""
 output: html_document
 ---
 
+## Refereed journal articles
+
 ***Notes.*** **Indexing information is provided in brackets. Web of Science (ex-ISI) = WoS; Q = quartil score.**
 
 Varela, J., Muñoz, G. J., Reschly, A., & Melipillán, R. (in press). [Bullying behavior and school bonding for predicting student engagement among Chilean adolescents](./docs/Varela et al_2022.pdf). Journal of School Violence. [WoS; Q2]
@@ -36,3 +38,8 @@ Aristegui, R., Gaete, J., Muñoz, G., Salazar, J. I., Krause, M., Vilches, O., e
 Muñoz, G. (2006). Los modos de respuesta verbal en terapia estratégica sistémica: Caracterización y análisis lingüístico de la técnica del reencuadre [Verbal response modes in brief strategic and systemic therapy: A characterization and linguistic analysis of reframing]. Aportes en Psicología Clínica, 2, 83-100.
 
 Muñoz, G., & Sanhueza, J. (2005). Estrategias de evaluación de la gestión docente para el profesor universitario [A teaching evaluation strategy for university teachers]. Boletín de Investigación Educacional, 20, 265-283.
+
+## Non-refereed journal articles
+
+Muñoz, G. J. (2022, May 2). [Selección de personas e igualdad de oportunidades](./docs/SOCIPCO_septima edición.pdf). Boletín de la Sociedad Científica Chilena de Psicología y Comportamiento Organizacional, *7*, 7-9. https://www.socipco.cl/
+
