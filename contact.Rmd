@@ -1,5 +1,5 @@
 ---
-title: "contact"
+title: ""
 output: html_document
 ---
 
@@ -7,4 +7,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-email: gmunozg@uc.cl
+| Oficina 37, Escuela de Administración
+| Pontificia Universidad Católica de Chile
+| Av. Vicuña Mackenna 4860
+| Macul, Santiago, Chile  
+&nbsp;  
+Phone:  +56 2 2354 4361  
+
+E-mail: gmunozg@uc.cl

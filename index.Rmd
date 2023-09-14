@@ -25,6 +25,8 @@ Mi investigación se ha concentrado en temas relacionados con entrenamiento, cap
 
 Más de 15 años de experiencia como consultor de empresas, universidades y ONGs. Junto con Holos estuvo a cargo del diseño del modelo de medición de cultura de seguridad para Minera Escondida (2014-2015), del diseño del onboarding process para MAM (2017), y de otras consultorías y proyectos para la minería. En el ámbito universitario, estuvo a cargo del diseño de la nueva evaluación docente de la Universidad Diego Portales y de la revisión del sistema de gestión de desempeño de la Universidad del Desarrollo, entre otros.
 
+[Download full CV here](./docs/vita.pdf){target="_blank"}
+
 ORCID iD		https://orcid.org/0000-0001-5317-4117
 
 ResearchGate profile	https://www.researchgate.net/profile/Gonzalo_Munoz3
