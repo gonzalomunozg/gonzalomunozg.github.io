@@ -1,9 +1,23 @@
 ---
-title: "Home"
+title: ""
 output: html_document
 ---
 
-![](./my_photo_BW.jpg){width=30%}
+<style>
+.column-left{
+  float: left;
+  width: 80%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 20%;
+  text-align: right;
+}
+</style>
+
+
+<div class="column-left">
 
 Profesor Asistente Escuela de Administración Pontificia Universidad Católica de Chile, Doctor en Psicología Organizacional de la Universidad de Texas A&M, Psicólogo PUC.
 
@@ -16,6 +30,18 @@ ORCID iD		https://orcid.org/0000-0001-5317-4117
 ResearchGate profile	https://www.researchgate.net/profile/Gonzalo_Munoz3
 
 Google Scholar	https://scholar.google.cl/citations?user=uEvQz1wAAAAJ&hl=es
+
+
+</div>
+
+<div class="column-right">
+
+![](20_Gonzalo_Munoz.JPG)
+
+</div>
+
+
+
 
 
 
