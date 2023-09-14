@@ -38,7 +38,7 @@ Google Scholar	https://scholar.google.cl/citations?user=uEvQz1wAAAAJ&hl=es
 
 <div class="column-right">
 
-![](20_Gonzalo_Munoz_lowres.JPG)
+![](./image/20_Gonzalo_Munoz_lowres.JPG)
 
 </div>
 
