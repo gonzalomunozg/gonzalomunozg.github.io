@@ -9,9 +9,9 @@ output: html_document
 
 Muñoz, G. J. (September, 2023). Relational feedback: Una nueva perspectiva para desarrollar habilidades gerenciales. Invited presentation for Desarrollo Corporativo, Escuela de Administración, Pontificia Universidad Católica de Chile, Santiago, Chile.
 
-Muñoz, G. J. (June, 2023). An Introduction to the Science of Skill Decay and its Implications for Individuals and Teams. Invited presentation for Escuela de Líderes, Sundirección de Vinculación, Escuela de Administración, Pontificia Universidad Católica de Chile, Santiago, Chile.
+Muñoz, G. J. (June, 2023). An introduction to the science of skill decay and its implications for individuals and teams. Invited presentation at the Department of Business Administration Colloquium Series, Universidad de Chile, Santiago, Chile.
 
-Muñoz, G. J. (June, 2023). Leadership. Invited presentation for Escuela de Líderes, Subdirección de Vinculación, Escuela de Administración, Pontificia Universidad Católica de Chile, Santiago, Chile. Invited presentation at the Department of Business Administration Colloquium Series, Universidad de Chile, Santiago, Chile.
+Muñoz, G. J. (June, 2023). Leadership. Invited presentation for Escuela de Líderes, Subdirección de Vinculación, Escuela de Administración, Pontificia Universidad Católica de Chile, Santiago, Chile. 
 
 Muñoz, G. J. (November, 2022). Emotions. Invited presentation for Escuela de Líderes, Pastoral Universitaria, Pontificia Universidad Católica de Chile, Santiago, Chile.
 
