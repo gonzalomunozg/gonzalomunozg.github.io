@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Home"
 output: html_document
 ---
 
@@ -38,7 +38,7 @@ Google Scholar	https://scholar.google.cl/citations?user=uEvQz1wAAAAJ&hl=es
 
 <div class="column-right">
 
-![](./image/20_Gonzalo_Munoz_lowres.jpg)
+![](image/20_Gonzalo_Munoz_lowres.jpg)
 
 </div>
 
