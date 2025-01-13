@@ -5,35 +5,37 @@ output: html_document
 
 ## Refereed journal articles
 
-***Notes.*** **Indexing information is provided in brackets. Web of Science (ex-ISI) = WoS; Q = quartil score.**
+***Notes.*** **Indexing information is provided in brackets. Journal Impact Factor = JIF; Q = Quartile; FT50 = Financial Times Ranking. **
 
-He, Y., Payne, S., Beus, J., Muñoz, G. J., Yao, X., & Battista, V. (2023). [Organizational climate profiles: Identifying meaningful combinations of climate level and strength](./docs/He et al_2023.pdf). Journal of Applied Psychology, 108(4), 595-620. https://doi.org/10.1037/apl0001036 [WoS; Q1]
+Arthur, W., Jr., Naber, A. N., Muñoz, G. J., Keiser, N. L., Atoba, O. A., Cho, I., & Bennett, W., Jr. (2025).  [A comparison of individual and team skill acquisition, retention (decay), and reacquisition using a synthetic task environment](./docs/Arthur et al_2025.pdf). Human Performance, Advance online publication. https://doi.org/10.1080/08959285.2024.2436171 [JIF Q2]
 
-Varela, J., Muñoz, G. J., Reschly, A., & Melipillán, R. (in press). [Bullying behavior and school bonding for predicting student engagement among Chilean adolescents](./docs/Varela et al_2022.pdf). Journal of School Violence. [WoS; Q2]
+He, Y., Payne, S., Beus, J., Muñoz, G. J., Yao, X., & Battista, V. (2023). [Organizational climate profiles: Identifying meaningful combinations of climate level and strength](./docs/He et al_2023.pdf). Journal of Applied Psychology, 108(4), 595-620. https://doi.org/10.1037/apl0001036 [JIF Q1; FT50 A+]
 
-Muñoz, G. J., Cortéz, D. A., Álvarez, C. B., Raggio, J. A., Concha, A., Rojas, F. I., Arthur, W. Jr., Fischer, B. M., & Rodríguez, S. (2022). [After-action reviews and long-term performance: An experimental examination in the context of an emergency simulation](./docs/Muñoz et al_2022.pdf). Human Factors, 64(4), 760-778. https://doi.org/10.1177/0018720820958848 [WoS; Q1]
+Varela, J., Muñoz, G. J., Reschly, A., & Melipillán, R. (in press). [Bullying behavior and school bonding for predicting student engagement among Chilean adolescents](./docs/Varela et al_2022.pdf). Journal of School Violence. [JIF Q2]
 
-Beus, J. M., Payne, S. C., Arthur, W. Jr., & Muñoz, G. J. (2019). [The development and validation of a cross-industry safety climate measure: Resolving conceptual and operational issues](./docs/Beus et al_2019.pdf). Journal of Management, 45, 1987-2013. doi: 10.1177/0149206317745596 [WoS; Q1]
+Muñoz, G. J., Cortéz, D. A., Álvarez, C. B., Raggio, J. A., Concha, A., Rojas, F. I., Arthur, W. Jr., Fischer, B. M., & Rodríguez, S. (2022). [After-action reviews and long-term performance: An experimental examination in the context of an emergency simulation](./docs/Muñoz et al_2022.pdf). Human Factors, 64(4), 760-778. https://doi.org/10.1177/0018720820958848 [JIF Q1]
+
+Beus, J. M., Payne, S. C., Arthur, W. Jr., & Muñoz, G. J. (2019). [The development and validation of a cross-industry safety climate measure: Resolving conceptual and operational issues](./docs/Beus et al_2019.pdf). Journal of Management, 45, 1987-2013. https://doi.org/10.1177/0149206317745596 [JIF Q1; FT50 A+]
 
 Barros, E., Kausel, E., Leiva, P., Madrid, H., Muñoz, G. J., Tagle, M. P., & Valenzuela, S. (2017). History of Industrial and Organizational Psychology in Chile. In S. G. Rogelberg (Ed.), The SAGE Encyclopedia of Industrial and Organizational Psychology (2nd ed., pp. 629-631). Thousand Oaks, CA: Sage Publications.
 
-Jarrett, S. M., Glaze, R. M., Schurig, I., Muñoz, G. J., Naber, A. M., McDonald, J. N., Bennett, W., Jr., & Arthur, W., Jr. (2016). [The comparative effectiveness of distributed and co-located team after-action reviews](./docs/Jarrett et al_2016.pdf). Human Performance, 29, 408-427. doi: 10.1080/08959285.2016.1208662 [WoS; Q3]
+Jarrett, S. M., Glaze, R. M., Schurig, I., Muñoz, G. J., Naber, A. M., McDonald, J. N., Bennett, W., Jr., & Arthur, W., Jr. (2016). [The comparative effectiveness of distributed and co-located team after-action reviews](./docs/Jarrett et al_2016.pdf). Human Performance, 29, 408-427. https://doi.org/10.1080/08959285.2016.1208662 [JIF Q3]
 
-Arthur, W. Jr., Cho, I., & Muñoz, G. J. (2016). Red vs. green: Does the exam booklet color matter in higher education summative evaluations? Not likely. Psychonomic Bulletin & Review, 23, 1596-1601. doi: 10.3758/s13423-016-1009-6 [WoS; Q1]
+Arthur, W. Jr., Cho, I., & Muñoz, G. J. (2016). Red vs. green: Does the exam booklet color matter in higher education summative evaluations? Not likely. Psychonomic Bulletin & Review, 23, 1596-1601. https://doi.org/10.3758/s13423-016-1009-6 [JIF Q1]
 
-Beus, J. M., Muñoz, G. J., & Arthur, W. Jr. (2015). Personality as a multilevel predictor of climate: An examination in the domain of workplace safety. Group & Organization Management, 40, 625-656. doi: 10.1177/1059601115576597 [WoS; Q2]
+Beus, J. M., Muñoz, G. J., & Arthur, W. Jr. (2015). Personality as a multilevel predictor of climate: An examination in the domain of workplace safety. Group & Organization Management, 40, 625-656. https://doi.org/10.1177/1059601115576597 [JIF Q2]
 
-Arthur, W. Jr., Doverspike, D., Muñoz, G. J., Taylor, J. E., & Carr, A. E. (2014) The use of mobile devices in high-stakes remotely delivered assessments and testing. International Journal of Selection and Assessment, 22, 113-123, doi: 10.1111/ijsa.12062 [WoS; Q3]
+Arthur, W. Jr., Doverspike, D., Muñoz, G. J., Taylor, J. E., & Carr, A. E. (2014) The use of mobile devices in high-stakes remotely delivered assessments and testing. International Journal of Selection and Assessment, 22, 113-123, https://doi.org/10.1111/ijsa.12062 [JIF Q3]
 
-Devarasetty, P. C., Burris, M., Arthur, W. Jr., McDonald, J. N.  & Muñoz, G. J. (2014). Can psychological variables help predict the use of priced managed lanes? Transportation Research Part F-Traffic Psychology and Behaviour, 22, 25-38. doi: 10.1016/j.trf.2013.10.006 [WoS; Q2]
+Devarasetty, P. C., Burris, M., Arthur, W. Jr., McDonald, J. N.  & Muñoz, G. J. (2014). Can psychological variables help predict the use of priced managed lanes? Transportation Research Part F-Traffic Psychology and Behaviour, 22, 25-38. https://doi.org/10.1016/j.trf.2013.10.006 [JIF Q2]
 
-Chiaburu, D. S., Muñoz, G. J., & Gardner, R. G. (2013) How to spot a careerist early on: Psychopathy and exchange ideology as predictors of careerism. Journal of Business Ethics, 118, 473-486. doi: 10.1007/s10551-012-1599-5 [WoS; Q1]
+Chiaburu, D. S., Muñoz, G. J., & Gardner, R. G. (2013) How to spot a careerist early on: Psychopathy and exchange ideology as predictors of careerism. Journal of Business Ethics, 118, 473-486. https://doi.org/10.1007/s10551-012-1599-5 [JIF Q1; FT50 A+]
 
-Chiaburu, D., Thundiyil, T. G., & Muñoz, G. J. (2013). Emotional support potential: Trainee regulatory focus and trainer competence predictors. Industrial and Commercial Training, 45, 293-302. doi: 10.1108/ICT-03-2013-0015 [Scopus; Q2]
+Chiaburu, D., Thundiyil, T. G., & Muñoz, G. J. (2013). Emotional support potential: Trainee regulatory focus and trainer competence predictors. Industrial and Commercial Training, 45, 293-302. https://doi.org/10.1108/ICT-03-2013-0015 [Scopus; Q2]
 
-Quintana, T., & Muñoz, G. (2010). Validación y adaptación del cuestionario de temperamento y carácter, JTCI de R. Cloninger, versión niños y padres, a escolares chilenos entre 8 y 13 años de edad [Validation and adaptation of Clonninger’s JTCI temperament and character questionnaire, children’ and parent’s version, applied on chilean children between age 8 and 13]. Terapia Psicológica, 28, 37-43. [Scopus; Q3]
+Quintana, T., & Muñoz, G. (2010). Validación y adaptación del cuestionario de temperamento y carácter, JTCI de R. Cloninger, versión niños y padres, a escolares chilenos entre 8 y 13 años de edad [Validation and adaptation of Clonninger’s JTCI temperament and character questionnaire, children’ and parent’s version, applied on chilean children between age 8 and 13]. Terapia Psicológica, 28, 37-43. [Scopus Q3]
 
-Aristegui, R., Gaete, J., Muñoz, G., Salazar, J. I., Krause, M., Vilches, O., et al. (2009). Dialogos y autorreferencia: procesos de cambio en psicoterapia desde la perspectiva de los actos de habla [Dialogues and self-reference: change processes in psychotherapy from speech acts's perspective]. Revista Latinoamericana de Psicología, 41, 277-289. [WoS; Q4]
+Aristegui, R., Gaete, J., Muñoz, G., Salazar, J. I., Krause, M., Vilches, O., et al. (2009). Dialogos y autorreferencia: procesos de cambio en psicoterapia desde la perspectiva de los actos de habla [Dialogues and self-reference: change processes in psychotherapy from speech acts's perspective]. Revista Latinoamericana de Psicología, 41, 277-289. [JIF Q4]
 
 Muñoz, G. (2006). Los modos de respuesta verbal en terapia estratégica sistémica: Caracterización y análisis lingüístico de la técnica del reencuadre [Verbal response modes in brief strategic and systemic therapy: A characterization and linguistic analysis of reframing]. Aportes en Psicología Clínica, 2, 83-100.
 

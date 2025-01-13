@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-| Oficina 37, Escuela de Administración
+| Oficina 409, Escuela de Administración
 | Pontificia Universidad Católica de Chile
 | Av. Vicuña Mackenna 4860
 | Macul, Santiago, Chile  
