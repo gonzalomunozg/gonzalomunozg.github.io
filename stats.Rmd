@@ -1,0 +1,18 @@
+---
+title: ''
+author: "Gonzalo J. Muoz"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+[Estadística avanzada Random Coefficient Models](https://rpubs.com/gmunoz) [Advanced Statistics Random Coefficient Models] (2019 - 2022), Doctorado en Neurociencia Social y Cognición, School of Psychology, Universidad Adolfo Ibáñez
+
+[Estadística avanzada ANOVA](https://rpubs.com/gmunoz) [Advanced Statistics ANOVA] (2019 - 2022), Doctorado en Neurociencia Social y Cognición, School of Psychology, Universidad Adolfo Ibáñez
+
+
+***
+**Para citar este material por favor usar el siguiente formato**
+
+Muñoz, G. J. (2019-2022). [Curso Estadística Avanzada]. Doctorado en Neurociencia Social y Cognición, Universidad Adolfo Ibáñez, Chile. https://rpubs.com/gmunoz
+
+***
