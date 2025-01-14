@@ -5,9 +5,8 @@ date: "`r Sys.Date()`"
 output: html_document
 ---
 
-## CURRENT AND UPCOMING COURSES
-
-### UNDERGRADUATE LEVEL
+### CURRENT AND UPCOMING COURSES
+#### **UNDERGRADUATE LEVEL**
 
 ***Notes.*** **Optativo de Formación General = OPR.**
 
@@ -15,28 +14,16 @@ Aprendizaje en organizaciones (OPR) [Learning in Organizacions] (2022 - ?), Scho
 
 Comportamiento Organizacional [Organizational Behavior] (2022 - ?), School of Business, Pontificia Universidad Católica de Chile
 
-## GRADUATE COURSES
+#### **GRADUATE LEVEL**
 
 Trabajo en Equipo [Teamwork] (2025 - ?). Magíster en Gestión Estratégica de Personas y Comportamiento Organizacional. School of Business and School of Psychology, Pontificia Universidad Católica de Chile.
 
 Gestión del Desempeño [Performance Management] (2025 - ?). Magíster en Gestión Estratégica de Personas y Comportamiento Organizacional. School of Business and School of Psychology, Pontificia Universidad Católica de Chile.
 
+<br><br>
 
-***
-**Para citar el material de clases disponible a continuación por favor usar el siguiente formato**
-
-Muñoz, G. J. (2019-2022). [Curso Estadística Avanzada]. Doctorado en Neurociencia Social y Cognición, Universidad Adolfo Ibáñez, Chile. https://rpubs.com/gmunoz
-
-***
-
-[Estadística avanzada Random Coefficient Models](https://rpubs.com/gmunoz) [Advanced Statistics Random Coefficient Models] (2019 - 2022), Doctorado en Neurociencia Social y Cognición, School of Psychology, Universidad Adolfo Ibáñez
-
-[Estadística avanzada ANOVA](https://rpubs.com/gmunoz) [Advanced Statistics ANOVA] (2019 - 2022), Doctorado en Neurociencia Social y Cognición, School of Psychology, Universidad Adolfo Ibáñez
-
-
-## PAST COURSES
-
-### UNDERGRADUATE LEVEL
+### PAST COURSES
+#### **UNDERGRADUATE LEVEL**
 
 Enfoques y Problemas Actuales en Psicología [Perspectives and Current Issues in Psychology] (2021), School of Psychology, Universidad Adolfo Ibáñez
 	
@@ -52,8 +39,7 @@ Experimental Psychology (Research Methods). Teaching assistant (August 2011 – 
 
 Taller Desarrollo de Carrera y Empleabilidad [Career Development and Employability (workshop)] (2008), School of Business, Universidad Adolfo Ibáñez
 
-
-### GRADUATE LEVEL
+#### **GRADUATE LEVEL**
 
 Entrenamiento [Training] (2014 - 2021), Master in Organizational Psychology, School of Psychology, Universidad Adolfo Ibáñez
 
