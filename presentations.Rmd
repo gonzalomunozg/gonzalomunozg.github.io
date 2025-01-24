@@ -7,6 +7,16 @@ output: html_document
 
 ## RECENT PRESENTATIONS
 
+Sánchez, F., Enrione, A., Pavez, I. & Muñoz, G. J. (January, 2025). Programa de Fortalecimiento del Gobierno Corporativo de la Universidad Técnica Federico Santa María (USM). Workshop for Consejo Directivo USM at Hotel Bidasoa, Santiago, Chile.
+ 
+Muñoz, G. J. & Paez, I. (December, 2024). Cultura organizacional y su impacto en la seguridad laboral [with Magno Contreras and Miguel Alcozer, Consulting Leader Team, Asociación Chilena de Seguridad]. Invited presentation for Escuela de Administración UC and Asociación Chilena de Seguridad at Sede Nueva Las Condes, Pontificia Universidad Católica de Chile, Santiago Chile.
+
+Muñoz, G. J. (June, 2024). An Introduction to the Science of Skill Decay and its Implications for Individuals and Teams [online]. Invited presentation at the Department of Recursos Humanos, Universidad Peruana de Ciencias Aplicadas, Perú.
+
+Muñoz, G. J. (July, 2024). Leadership. Invited presentation for Escuela de Líderes, Subdirección de Vinculación, Escuela de Administración, Pontificia Universidad Católica de Chile, Santiago, Chile. 
+
+Muñoz, G. J. (September, 2023). Relational feedback: Una nueva perspectiva para desarrollar habilidades gerenciales. Invited presentation for Desarrollo Corporativo, Escuela de Administración, Pontificia Universidad Católica de Chile, Santiago, Chile.
+
 Muñoz, G. J. (September, 2023). Relational feedback: Una nueva perspectiva para desarrollar habilidades gerenciales. Invited presentation for Desarrollo Corporativo, Escuela de Administración, Pontificia Universidad Católica de Chile, Santiago, Chile.
 
 Muñoz, G. J. (June, 2023). An introduction to the science of skill decay and its implications for individuals and teams. Invited presentation at the Department of Business Administration Colloquium Series, Universidad de Chile, Santiago, Chile.
