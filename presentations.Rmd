@@ -6,6 +6,9 @@ output: html_document
 ---
 
 ## RECENT PRESENTATIONS
+Muñoz, G. J, Valenzuela, F, Fernández, P, & Bausch, M. (2025, Dec 15th). Theorizing from LATAM [Professional Development Workshop]. In F. Symmes (Chair). 1st Academy of Management Andes Connect Workshop, Universidad de Chile, Santiago, Chile. 
+
+Muñoz, G. J. (July, 2025). *Aprender para competir: Cómo construir una cultura de aprendizaje en la empresa* [Webinar]. You Tube. URL
 
 Sánchez, F., Enrione, A., Pavez, I. & Muñoz, G. J. (January, 2025). Programa de Fortalecimiento del Gobierno Corporativo de la Universidad Técnica Federico Santa María (USM). Workshop for Consejo Directivo USM at Hotel Bidasoa, Santiago, Chile.
  
