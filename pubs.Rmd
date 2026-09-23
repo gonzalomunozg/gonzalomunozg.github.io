@@ -7,6 +7,8 @@ output: html_document
 
 ***Notes.*** **Indexing information is provided in brackets. Journal Impact Factor = JIF; Q = Quartile; FT50 = Financial Times Ranking. **
 
+**2026 — New publication.** [Article in *Social Sciences & Humanities Open*](https://doi.org/10.1016/j.ssaho.2026.103404). https://doi.org/10.1016/j.ssaho.2026.103404
+
 Arthur, W., Jr., Naber, A. N., Muñoz, G. J., Keiser, N. L., Atoba, O. A., Cho, I., & Bennett, W., Jr. (2025).  [A comparison of individual and team skill acquisition, retention (decay), and reacquisition using a synthetic task environment](./docs/Arthur et al_2025.pdf). Human Performance, Advance online publication. https://doi.org/10.1080/08959285.2024.2436171 [JIF Q2]
 
 He, Y., Payne, S., Beus, J., Muñoz, G. J., Yao, X., & Battista, V. (2023). [Organizational climate profiles: Identifying meaningful combinations of climate level and strength](./docs/He et al_2023.pdf). Journal of Applied Psychology, 108(4), 595-620. https://doi.org/10.1037/apl0001036 [JIF Q1; FT50 A+]
