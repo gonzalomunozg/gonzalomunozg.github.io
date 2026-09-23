@@ -1,48 +1,48 @@
 ---
+title: "Gonzalo J. Muñoz | Organizational Psychology"
 output: html_document
 ---
 
-<style>
-.column-left{
-  float: left;
-  width: 80%;
-  text-align: left;
-}
-.column-right{
-  float: right;
-  width: 20%;
-  text-align: right;
-}
-</style>
+<div class="hero">
+<div class="hero-copy">
 
+# Gonzalo J. Muñoz, Ph.D.
 
-<div class="column-left">
+<p class="lead">Organizational psychology · People management · Learning and performance</p>
 
-Profesor Asistente Escuela de Administración Pontificia Universidad Católica de Chile, Doctor en Psicología Organizacional de la Universidad de Texas A&M, Psicólogo PUC.
+Profesor Asistente de la Escuela de Administración de la **Pontificia Universidad Católica de Chile** y Director del **Magíster en Gestión de Personas y Comportamiento Organizacional UC**. Psicólogo UC y Ph.D. en Psicología Industrial-Organizacional por Texas A&M University.
 
-Mi investigación se ha concentrado en temas relacionados con entrenamiento, capacitación y desarrollo organizacional que han sido publicadas en las principales revistas de la disciplina incluyendo Journal of Applied Psychology, Human Factors, Journal of Management, Journal of Business Ethics y Psychonomic Bulletin & Review, entre otras. 
-
-Más de 15 años de experiencia como consultor de empresas, universidades y ONGs. Junto con Holos estuvo a cargo del diseño del modelo de medición de cultura de seguridad para Minera Escondida (2014-2015), del diseño del onboarding process para MAM (2017), y de otras consultorías y proyectos para la minería. En el ámbito universitario, estuvo a cargo del diseño de la nueva evaluación docente de la Universidad Diego Portales y de la revisión del sistema de gestión de desempeño de la Universidad del Desarrollo, entre otros.
-
-[Download full CV here](./docs/vita.pdf){target="_blank"}
-
-ORCID iD		https://orcid.org/0000-0001-5317-4117
-
-ResearchGate profile	https://www.researchgate.net/profile/Gonzalo_Munoz3
-
-Google Scholar	https://scholar.google.cl/citations?user=uEvQz1wAAAAJ&hl=es
-
-
+<div class="hero-links">
+<a href="./docs/vita.pdf" target="_blank">CV</a>
+<a href="https://scholar.google.cl/citations?user=uEvQz1wAAAAJ&hl=es" target="_blank">Google Scholar</a>
+<a href="https://orcid.org/0000-0001-5317-4117" target="_blank">ORCID</a>
+<a href="mailto:gmunozg@uc.cl">Email</a>
 </div>
 
-<div class="column-right">
+</div>
+<div class="hero-photo">
 
 ![](image/20_Gonzalo_Munoz_lowres.jpg)
 
 </div>
+</div>
 
+## Research
 
+Mi investigación se concentra en **aprendizaje y desarrollo en organizaciones, gestión del desempeño, clima organizacional y de seguridad, y evaluación basada en evidencia**. Mi trabajo ha sido publicado en revistas como *Journal of Applied Psychology*, *Human Factors*, *Journal of Management*, *Journal of Business Ethics*, *Human Performance* y *Psychonomic Bulletin & Review*.
 
+[Ver publicaciones →](pubs.html)
 
+## Teaching and academic leadership
 
+Actualmente dirijo el Magíster en Gestión de Personas y Comportamiento Organizacional UC y realizo docencia en temas de comportamiento organizacional, gestión de personas, aprendizaje y desempeño.
 
+## Applied work
+
+Tengo más de 15 años de experiencia en consultoría y proyectos aplicados con empresas, universidades y organizaciones, especialmente en seguridad, desarrollo organizacional, evaluación y gestión del desempeño. Mi trabajo busca conectar evidencia científica con problemas reales de gestión.
+
+## Profiles and contact
+
+**Pontificia Universidad Católica de Chile · Escuela de Administración**  
+[Perfil académico UC](https://economiayadministracion.uc.cl/docentes/gonzalo-munoz/) · [Google Scholar](https://scholar.google.cl/citations?user=uEvQz1wAAAAJ&hl=es) · [ORCID](https://orcid.org/0000-0001-5317-4117) · [ResearchGate](https://www.researchgate.net/profile/Gonzalo_Munoz3)  
+[gmunozg@uc.cl](mailto:gmunozg@uc.cl)
