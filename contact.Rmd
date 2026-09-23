@@ -1,17 +1,14 @@
 ---
-title: ""
+title: "Contact"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## Pontificia Universidad Católica de Chile
 
-| Oficina 409, Escuela de Administración
-| Pontificia Universidad Católica de Chile
-| Av. Vicuña Mackenna 4860
-| Macul, Santiago, Chile  
-&nbsp;  
-Phone:  +56 2 2354 4361  
+**Facultad de Economía y Administración**  
+Oficina EA352  
+Av. Vicuña Mackenna 4860  
+Macul, Santiago, Chile
 
-E-mail: gmunozg@uc.cl
+**Teléfono:** (+56) 2 2354 9601  
+**E-mail:** [gmunozg@uc.cl](mailto:gmunozg@uc.cl)
