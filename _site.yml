@@ -1,4 +1,4 @@
-name: "My personal webpage"
+name: "Gonzalo J. Muñoz | Organizational Psychology"
 output_dir: "."
 navbar:
  title: "Gonzalo J. Muñoz"
@@ -8,19 +8,15 @@ navbar:
    - text: "Publications"
      href: pubs.html
      icon: fa-book-open
-   - text: "Education"
-     href: educ.html
-   - text: "Courses"
+   - text: "Teaching"
      href: courses.html
-   - text: "Stats"
-     href: stats.html
    - text: "Presentations"
      href: presentations.html
-   - text: ""
+   - text: "Contact"
      href: contact.html
-     icon: fa-phone
-     
-     
+     icon: fa-envelope
+
 output:
  html_document:
   theme: darkly
+  css: styles.css
