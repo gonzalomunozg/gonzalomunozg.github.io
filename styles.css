@@ -84,3 +84,26 @@ h2 {
     font-size: 34px;
   }
 }
+
+.credential-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin: 20px 0 8px;
+}
+.credential-card {
+  padding: 18px 20px;
+  border: 1px solid rgba(255,255,255,.14);
+  border-radius: 8px;
+  background: rgba(255,255,255,.035);
+}
+.credential-card strong {
+  display: inline-block;
+  margin-bottom: 8px;
+  font-size: 17px;
+}
+@media (max-width: 800px) {
+  .credential-grid {
+    grid-template-columns: 1fr;
+  }
+}
