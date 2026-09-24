@@ -22,7 +22,7 @@ Profesor Asistente de la Escuela de Administración de la **Pontificia Universid
 </div>
 <div class="hero-photo">
 
-![](image/20_Gonzalo_Munoz_lowres.jpg)
+![](image/gonzalo_portrait_bluegray.jpg)
 
 </div>
 </div>
