@@ -12,6 +12,8 @@ navbar:
      href: courses.html
    - text: "Presentations"
      href: presentations.html
+   - text: "Tools"
+     href: calculadora-utilidad/
    - text: "Contact"
      href: contact.html
      icon: fa-envelope
